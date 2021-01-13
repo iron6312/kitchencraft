@@ -87,7 +87,7 @@ margin-top: 30px;
 }
 
 #info dl {
-  diosplay: flex;
+  display: flex;
   flex-wrap: wrap;
   margin-bottom: 50px;
 }
